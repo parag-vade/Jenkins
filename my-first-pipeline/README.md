@@ -7,3 +7,4 @@ This is a Jenkins Pipeline script written in the declarative pipeline syntax. It
 
 ![image](https://github.com/user-attachments/assets/0449b69c-791a-4b81-8c72-7d318e5d57a7)
 
+![image](https://github.com/user-attachments/assets/1ab86af1-62df-42c0-bfd6-14ea263bf382)
